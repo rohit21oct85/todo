@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+label{
+      font-size: 1.2rem;
+      text-align: left;
+}
+.form-control{
+    font-size: 1.2rem;
+    text-align: left;
+    color: #000;
+    padding: 10px 3px;
+}
+
+.LoginBg{
+    background-color: #dfdfdf;
+    background-size: cotain !important;
+    background-position:left center !important;
+    background-repeat: no-repeat !important;
+    height: 100vh;
+    position: fixed;
+}
+h1, h4 {
+    color: #000;
+}
+.LoginBg .logo{
+    padding:15px;
+    width: 220px;
+    float: left;
+}
+.image-div{
+    margin:90px 0;
+}
+.adminLoginDiv{
+    position: absolute;
+    top: 16%;
+    right: 35%;
+    background-color: #dfdfdf;
+    color: #000;
+    margin:0;
+    font-size: 1rem !important;
+    height: 70vh;
+    width: 30vw;
+    padding: 2rem 2rem;
+    text-align: left;
+}
+.adminRegisterDiv{
+    position: absolute;
+    top: 10%;
+    right: 35%;
+    background-color: #dfdfdf;
+    color: #000;
+    margin:0;
+    text-align: left;
+    font-size: 1rem !important;
+    height: 80vh;
+    width: 30vw;
+    padding: 2rem 2rem;
+}

@@ -1,0 +1,37 @@
+### TEST ###
+GET http://localhost:5000/api/test
+
+### Register ###
+POST http://localhost:5000/api/v1/auth/register
+Content-Type: application/json
+
+{
+      "name": "Ritesh Singh",
+      "email":"ritesh.singh@gmail.com",
+      "password":"password"
+}
+
+### Login ###
+POST http://localhost:5000/api/v1/auth/login
+Content-Type: application/json
+
+{
+      "email":"rohit@gmail.com",
+      "password":"password"
+}
+
+#### TODO ####
+
+
+### create todo ###
+@token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Imk1VVdFZ2pKV01YNG5TSEoiLCJlbWFpbCI6InJvaGl0QGdtYWlsLmNvbSIsImlhdCI6MTYyNDUwOTU0MSwiZXhwIjoxNjI3MTAxNTQxfQ.6sFtQnKScN-Mul--Dyg08ze7nL7yJs42Hr9ZwK-jnFg"
+POST http://localhost:5000/api/v1/todo/create
+Content-Type: application/json
+
+Authorization: Bearer {{token}}
+
+{
+      "title": "toto one",
+      "description":"todo one description"
+}
+

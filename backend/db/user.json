@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Rohit Singh",
+    "email": "rohit@gmail.com",
+    "password": "$2a$10$NjfO/z604HMsa1.2O8SgO.O9QaJGII7eC2K3ae4d9G1s2erNMMdkO",
+    "uid": "i5UWEgjJWMX4nSHJ"
+  },
+  {
+    "name": "Ritesh Singh",
+    "email": "ritesh.singh@gmail.com",
+    "password": "$2a$10$Fh3C70fLMg.K7H3OOL0XoO/hn/8V8IA8MbtkIoa/cqlRdBBJN4aB.",
+    "uid": "WF7OWxAXwE6KRypg"
+  },
+  {
+    "name": "",
+    "email": "test@gmail.com",
+    "password": "$2a$10$mj1XOucSvB4TJoo/wt97zuedRKbzC7qzFKmxYSUtiUJjx3tEOv0U.",
+    "uid": "njNR3iFo2pQzT7xK"
+  },
+  {
+    "name": "Rohit Singh",
+    "email": "rohit.singh@gmail.com",
+    "password": "$2a$10$Z/V3dn0/GahpOonBRKcw.usyfnXP5r.I16xC8xITXG6ww.D5vF0QG",
+    "uid": "3pTSV6_ZPgNjMB2O"
+  },
+  {
+    "name": "Rohit Kumar",
+    "email": "rohitkumar@gmail.com",
+    "password": "$2a$10$AzwwqJTD5HjQbG8sOtDlJumZwKdzSmZsQvHUZVpVTXUpgvA0OgHDi",
+    "uid": "NIUtr6sKaDN6GSKG"
+  },
+  {
+    "name": "Rohit Singh Rajput",
+    "email": "rohit21oct85@gmail.com",
+    "password": "$2a$10$MX/iwvC7s.LBt87SJ/AkW.vE4.NDnwLxue.eBOGP9JjgesrbFdZiK",
+    "uid": "rVe1A6ch0YX1Pc5Y"
+  }
+]
