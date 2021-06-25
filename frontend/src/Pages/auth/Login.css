@@ -35,27 +35,27 @@ h1, h4 {
 }
 .adminLoginDiv{
     position: absolute;
-    top: 16%;
-    right: 35%;
+    top: 0%;
+    right: 0%;
     background-color: #dfdfdf;
     color: #000;
     margin:0;
     font-size: 1rem !important;
-    height: 70vh;
+    height: 100vh;
     width: 30vw;
-    padding: 2rem 2rem;
+    padding: 8rem 3rem;
     text-align: left;
 }
 .adminRegisterDiv{
     position: absolute;
-    top: 10%;
-    right: 35%;
+    top: 0%;
+    right: 0%;
     background-color: #dfdfdf;
     color: #000;
     margin:0;
     text-align: left;
     font-size: 1rem !important;
-    height: 80vh;
+    height: 100vh;
     width: 30vw;
-    padding: 2rem 2rem;
+    padding: 5rem 3rem;
 }

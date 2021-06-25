@@ -82,7 +82,7 @@ export default function Login() {
 
     return (
         <div className="container-fluid p-0 m-0 text-center LoginBg" style={{
-            background: "#ededed"
+            background: `url('/bg.png')`
         }}>
             <div className="row no-gutter">
                 <div className="adminLoginDiv">
